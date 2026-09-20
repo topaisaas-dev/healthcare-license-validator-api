@@ -1,6 +1,7 @@
 # 🩺 Healthcare Provider & Medical License Validator API
 
 [![Cloudflare Workers](https://img.shields.io/badge/Cloudflare_Workers-Serverless-F38020?logo=cloudflare&logoColor=white)](https://healthcare-license-validator.topaisaas.workers.dev)
+[![RapidAPI Pricing](https://img.shields.io/badge/RapidAPI-Subscribe%20Plan-blue.svg)](https://rapidapi.com/topaisaasdev/api/healthcare-provider-medical-license-validator-api/pricing)
 [![OpenAPI 3.0](https://img.shields.io/badge/OpenAPI-3.0_Spec-green?logo=openapi-initiative)](https://healthcare-license-validator.topaisaas.workers.dev/openapi.json)
 [![Edge SLA](https://img.shields.io/badge/Edge_Latency-<25ms-FFD600?logo=lightning)](https://healthcare-license-validator.topaisaas.workers.dev/v1/health)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)

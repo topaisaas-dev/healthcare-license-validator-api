@@ -54,7 +54,8 @@ app.get("/", (c) => {
         taxonomySearch: "GET /v1/taxonomy/search?query=cardiology",
         openapi: "GET /openapi.json"
       },
-      documentation: "https://rapidapi.com",
+      pricing: "https://rapidapi.com/topaisaasdev/api/healthcare-provider-medical-license-validator-api/pricing",
+      documentation: "https://healthcare-license-validator.topaisaas.workers.dev/openapi.json",
       github: "https://github.com/topaisaas-dev/healthcare-license-validator-api"
     });
   }

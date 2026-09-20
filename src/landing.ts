@@ -341,7 +341,7 @@ export function renderInteractiveLanding(): string {
       <a href="/openapi.json" class="btn-link" target="_blank">OpenAPI Spec</a>
       <a href="/v1/health" class="btn-link" target="_blank">Health</a>
       <a href="https://github.com/topaisaas-dev/healthcare-license-validator-api" class="btn-link" target="_blank">GitHub</a>
-      <a href="https://rapidapi.com" class="btn-cta" target="_blank">Subscribe on RapidAPI</a>
+      <a href="https://rapidapi.com/topaisaasdev/api/healthcare-provider-medical-license-validator-api/pricing" class="btn-cta" target="_blank">Subscribe on RapidAPI</a>
     </div>
   </header>
 
