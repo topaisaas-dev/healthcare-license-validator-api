@@ -10,6 +10,30 @@
 
 ---
 
+## ⚡ Quick Try in 5 Seconds + Free FinOps Audit + USD Toolkits (14-Day Money-Back Guarantee)
+
+Test the **TopAI Sovereign Edge Gateway** live right now — **no API key required**, deterministic sub-30ms response (`HTTP 200`), zero LLM token burn (Deterministic Broken JSON Auto-Healer (`POST /v1/api/12-json-surgeon`)):
+
+```bash
+curl -sS -X POST https://topaigateway.com/v1/api/12-json-surgeon -H "Content-Type: application/json" -d '{"broken_json":"{name: \"TopAI\", latency_ms: 12,}"}'
+```
+
+### 🔍 Free Live Diagnostics, Sample Previews & Edge MCP Server
+- **Free Live FinOps & Token Waste Auditor**: Benchmark your agent token burn in 10 seconds -> [**Run Free FinOps Audit**](https://topaigateway.com/audit?utm_source=github&utm_medium=readme&utm_campaign=healthcare-license-validator-api)
+- **Interactive Sample Previews (No Signup)**: [**n8n Sovereign Workflow Starter JSON**](https://topaigateway.com/samples/topai-n8n-starter.json?utm_source=github&utm_medium=readme&utm_campaign=healthcare-license-validator-api) · [**Cursor & Claude Code Sovereign Rules**](https://topaigateway.com/download/samples/topai-cursor-rules.txt?utm_source=github&utm_medium=readme&utm_campaign=healthcare-license-validator-api)
+- **19-Tool Edge MCP Server**: Connect Claude Desktop, Cursor, or Windsurf in 1 line -> `npx -y @topaisaas/mcp-server`
+
+### 💳 Hero Quartet — Direct USD Checkout (14-Day No-Questions-Asked Money-Back Guarantee)
+
+| Plan / Toolkit | USD Price | What You Unlock | Direct USD Checkout |
+| :--- | :--- | :--- | :--- |
+| **Pack 1: DevEx & FinOps Pro Trial** | **$0 / 7 Days** | 10,000 req/mo across 100+ sub-30ms edge APIs (`$14/mo` after trial, cancel anytime) | [**Start $0 7-Day Trial →**](https://topaigateway.com/checkout?pack=pack_1_devex&direct=true&utm_source=github&utm_medium=readme&utm_campaign=healthcare-license-validator-api) |
+| **n8n & Make 65-Workflow Super-Pack** | **$19 Once** | 65 production-hardened n8n & Make templates with zero-token edge connectors | [**Get Super-Pack ($19) →**](https://topaigateway.com/checkout?pack=bundle_n8n_make&direct=true&utm_source=github&utm_medium=readme&utm_campaign=healthcare-license-validator-api) |
+| **Runaway Token Breaker Shield** | **$29 Once** | Deterministic circuit-breaker kit to stop infinite agent loops & runaway LLM bills | [**Get Breaker Shield ($29) →**](https://topaigateway.com/checkout?pack=runaway_token_breaker&direct=true&utm_source=github&utm_medium=readme&utm_campaign=healthcare-license-validator-api) |
+| **Cursor & Claude Code 169-Tool Harness Kit** | **$49 Once** | Complete 169-tool sovereign engineering harness, offline keys, hooks & CI/CD guardrails | [**Get 169-Tool Kit ($49) →**](https://topaigateway.com/checkout?pack=bundle_cursor_harness&direct=true&utm_source=github&utm_medium=readme&utm_campaign=healthcare-license-validator-api) |
+
+---
+
 ## ⚡ Why Healthcare Provider Verification API?
 
 Medical credential verification has historically been slow, fragmented, and prone to human error:
